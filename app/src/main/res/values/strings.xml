@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">NotizApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">add_note\n</string>
+    <string name="note_title_hint">note_title_hint</string>
+    <string name="note_content_hint">note_content_hint\n</string>
+    <string name="save_note">save_note</string>
+    <string name="delete_note">delete_note</string>
 </resources>
